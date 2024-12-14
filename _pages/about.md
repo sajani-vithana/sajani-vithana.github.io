@@ -11,14 +11,14 @@ I am a Postdoctoral Fellow at Harvard, mentored by Prof. [Flavio Calmon](https:/
 
 My research focuses on the foundations of trustworthy AI. I develop information-theoretic models to explore the fundamental trade-offs between performance and ethical concerns such as privacy, fairness, and reliability in AI system components. Using tools from coding theory, optimization, signal processing, probability, and statistics, I design robust algorithms that contribute to building trustworthy AI systems.
 
-Education
-======
+#Education
+#======
 
-PhD - Electrical Engineering: University of Maryland, College Park 
+#PhD - Electrical Engineering: University of Maryland, College Park 
 
-MS - Electrical Engineering: University of Maryland, College Park
+#MS - Electrical Engineering: University of Maryland, College Park
 
-BS - Electrical and Electronics Engineering: University of Peradeniya, Sri Lanka
+#BS - Electrical and Electronics Engineering: University of Peradeniya, Sri Lanka
 
 News
 ======
