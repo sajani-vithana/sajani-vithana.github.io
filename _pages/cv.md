@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](/talkmap/cv.pdf)
+[CV](/files/talkmap/cv.pdf)
