@@ -82,7 +82,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  https://github.com/sajani357/sajani357.github.io/blob/master/PXL_20240708_222732090%20(1).jpg
+teaser                   :  #https://github.com/sajani357/sajani357.github.io/blob/master/PXL_20240708_222732090%20(1).jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
