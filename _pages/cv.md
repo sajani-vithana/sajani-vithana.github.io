@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](/files/talkmap/cv.pdf)
+[CV](https://github.com/sajani357/sajani357.github.io/blob/master/cv.pdf)
