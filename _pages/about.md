@@ -11,7 +11,7 @@ I am a Postdoctoral Fellow at Harvard, mentored by Prof. [Flavio Calmon](https:/
 
 My research focuses on the foundations of trustworthy AI. I develop information-theoretic models to explore the fundamental trade-offs between performance and ethical concerns such as privacy, fairness, and reliability in AI system components. Using tools from coding theory, optimization, signal processing, probability, and statistics, I design robust algorithms that contribute to building trustworthy AI systems.
 
-Core Research Interests: Information Theory, Coding Theory, Optimization, Probability & Statistics
+**Core Research Interests**: Information Theory, Coding Theory, Optimization, Probability & Statistics
 
 News
 ======
