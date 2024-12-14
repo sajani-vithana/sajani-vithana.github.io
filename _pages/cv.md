@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](master/cv.pdf)
+[CV](cv.pdf)
