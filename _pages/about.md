@@ -25,7 +25,7 @@ Generation with a Multi-Group Proportional Metric* was accepted at the NeurIPS W
 
 - Sep 2024: I gave a talk on *Information and Coding Theoretic Tools for Privacy-Preserved Distributed Learning* at LMU Munich.
 
-- Aug 2024: I presented our work on *Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation* at TPDP 2024 and SIAM MDS 2024.
+- Aug 2024: I presented our work on *Differentially Private Distributed Mean Estimation* at TPDP 2024 and SIAM MDS 2024.
 
 - Apr 2024: Our paper on [Private Approximate Nearest Neighbor Search for Vector Database Querying](https://ieeexplore.ieee.org/abstract/document/10619146) was accepted at ISIT 2024!
 
