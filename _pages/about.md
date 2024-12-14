@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow at Harvard, mentored by Prof. [Flavio Calmon](https://people.seas.harvard.edu/~flavio/). Before this, I was a PhD student at the University of Maryland under the guidance of Prof. [Sennur Ulukus](https://user.eng.umd.edu/~ulukus/).
 
-My research focuses on the foundations of trustworthy AI. I develop information-theoretic models to explore the fundamental trade-offs between performance and ethical concerns in AI system components. I am particularly interested in tackling critical challenges related to privacy, fairness, and reliability. Using tools from coding theory, optimization, signal processing, probability, and statistics, I design robust algorithms that contribute to building equitable and reliable AI systems.
+My research focuses on the foundations of trustworthy AI. I develop information-theoretic models to explore the fundamental trade-offs between performance and ethical concerns such as privacy, fairness, and reliability in AI system components. Using tools from coding theory, optimization, signal processing, probability, and statistics, I design robust algorithms that contribute to building trustworthy AI systems.
 
 Education
 ======
