@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-
+[CV](relative/path/to/file.ext)
