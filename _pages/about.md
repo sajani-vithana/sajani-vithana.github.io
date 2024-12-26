@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow at Harvard, mentored by Prof. [Flavio Calmon](https://people.seas.harvard.edu/~flavio/). I completed my PhD in Electrical and Computer Engineering at the University of Maryland in 2023 under the guidance of Prof. [Sennur Ulukus](https://user.eng.umd.edu/~ulukus/). Prior to that, I completed my undergraduate studies in Electrical and Electronics Engineering at the University of Peradeniya, Sri Lanka.
 
-My research focuses on the foundations of trustworthy AI. I develop information-theoretic models to explore the fundamental trade-offs between performance and ethical concerns such as privacy, fairness, and reliability in AI system components. Using tools from coding theory, optimization, signal processing, probability, and statistics, I design robust algorithms that contribute to building trustworthy AI systems.
+My research focuses on the fundamentals of trustworthy AI. I develop information-theoretic models to explore the trade-offs between performance and ethical concerns such as privacy, fairness, and reliability in AI system components. Using tools from coding theory, optimization, signal processing, probability, and statistics, I design robust algorithms that contribute to building trustworthy AI systems.
 
 **Core Research Interests**: Information Theory, Coding Theory, Optimization, Probability & Statistics
 
