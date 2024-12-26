@@ -7,12 +7,10 @@
   #  url: /cv/
 
 main:
-
- - title: "Publications"
+  - title: "Publications"
     url: /publications/
 
-- title: "CV"
-    url: /cv/
+
     
   
     
