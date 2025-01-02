@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow at Harvard, mentored by Prof. [Flavio Calmon](https://people.seas.harvard.edu/~flavio/). I completed my PhD in Electrical and Computer Engineering at the University of Maryland in 2023 under the guidance of Prof. [Sennur Ulukus](https://user.eng.umd.edu/~ulukus/). Prior to that, I completed my undergraduate studies in Electrical and Electronics Engineering at the University of Peradeniya, Sri Lanka.
 
-My research focuses on the fundamentals of trustworthy AI. I develop information-theoretic models to explore the trade-offs between performance and ethical concerns such as privacy, fairness, and reliability in AI system components. Using tools from coding theory, optimization, signal processing, probability, and statistics, I design robust algorithms that contribute to building trustworthy AI systems.
+My research focuses on the fundamentals of trustworthy ML. I develop information-theoretic models to explore the trade-offs between performance and ethical concerns such as privacy, fairness, and reliability in ML system components. Using tools from coding theory, optimization, signal processing, probability, and statistics, I design robust algorithms that contribute to building trustworthy ML systems.
 
 **Core Research Interests**: Information Theory, Coding Theory, Optimization, Probability & Statistics
 
@@ -23,7 +23,7 @@ Generation with a Multi-Group Proportional Metric* was accepted at the NeurIPS W
 
 - Sep 2024: Our paper on [Multi-Group Proportional Representation in Retrieval](https://arxiv.org/pdf/2407.08571) was accepted at NeurIPS 2024!
 
-- Sep 2024: I gave a talk on *Information and Coding Theoretic Tools for Privacy-Preserved Distributed Learning* at LMU Munich.
+- Sep 2024: I gave a (virtual) talk on *Information and Coding Theoretic Tools for Privacy-Preserved Distributed Learning* at LMU Munich.
 
 - Aug 2024: I presented our work on *Differentially Private Distributed Mean Estimation* at TPDP 2024 and SIAM MDS 2024.
 
