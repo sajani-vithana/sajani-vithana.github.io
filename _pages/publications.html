@@ -9,11 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% 1. S. Vithana and S. Ulukus, "Information-Theoretically Private Federated Submodel Learning With Storage Constrained Databases," in IEEE Transactions on Information Theory, Aug. 2024 %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined
+<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -32,18 +30,4 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %} 
--->
-
-<!--
-<h1>Publications</h1>
-
-<ul>
-  <li><strong>Sajani Vithana</strong>, "Title of Paper 1," <em>Conference/Journal Name</em>, 2023. <a href="http://example.com">Link</a></li>
-  <li><strong>Sajani Vithana</strong>, "Title of Paper 2," <em>Conference/Journal Name</em>, 2022. <a href="http://example.com">Link</a></li>
-</ul>
--->
-
-
-
-
+{% endif %}
