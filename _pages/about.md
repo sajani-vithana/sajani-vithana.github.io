@@ -13,7 +13,7 @@ My research focuses on the fundamentals of trustworthy ML. I develop information
 
 **Core Research Interests**: Information Theory, Coding Theory, Optimization, Probability & Statistics
 
-[Download My CV](assets/cv.pdf)
+[Download My CV](/cv.pdf)
 
 News
 ======
