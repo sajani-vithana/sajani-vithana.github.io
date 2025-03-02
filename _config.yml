@@ -6,6 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+google_site_verification: "<meta name="google-site-verification" content="UvLfL_6Z9oWJhWqRjRzJeqPrTOREhzZUmFTXiqSrAUg" />"
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Sajani Vithana"
